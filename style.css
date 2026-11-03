@@ -37,7 +37,7 @@ h1 {
 }
 
 img {
-  width: 90%;
+  width: 100%;
 }
 
 /*
@@ -148,7 +148,7 @@ header {
   max-width: 540px;
 }
 
-.hero__desription {
+.hero__description {
   margin-left: 60px;
 }
 
@@ -343,7 +343,7 @@ SMALLER SCREEN
     max-width: 500px;
   }
 
-  .hero__desription {
+  .hero__description {
     margin-left: 0;
   }
 
